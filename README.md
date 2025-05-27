@@ -7,6 +7,4 @@ wait no changes?
 bro why my second commit message not showing after i used git commit -m? because i made no changes before adding this to staging are?
 
 
-
-
-This is a change on the main branch.
+## New Features
